@@ -14,7 +14,7 @@ Uses users’ geolocation (under permission) find other users who’s open to co
 ### App Evaluation
 - **Category:** Social Networking / Social Communication 
 - **Mobile:** This app would be primarily developed for mobile but would perhaps be just as viable on an iPad, such as WeChat (only allows users to login if they agreed to login with other devices simultaneously) or other similar apps. Functionality wouldn't be limited to mobile devices, however mobile version could potentially have more features.
-- **Story:** Locates users’ coordinates and show them other users who’s open to strangers to “sayHI”. The user can then decide to message this person with our “sayHi” button and start up conversations if this person respond with “sayHi” button or even befriend them if wanted.
+- **Story:** Locates users’ coordinates and show them other users who’s open to strangers to “sayHi”. The user can then decide to message this person with our “sayHi” button and start up conversations if this person respond with “sayHi” button or even befriend them if wanted.
 - **Market:** Any individual could choose to use this app, and to keep it a safe environment, people would be organized into gender groups.
 - **Habit:** This app could be used as often or unoften as the user wanted depending on how deep their social life is, and what exactly they're looking for.
 - **Scope:** First user would choose the person he or she wants to start the conversation with based on geolocation, then perhaps this could evolve into a social networking application as well to broaden its usage if that person would like to connect with this user. Large potential for use with Apple map API, Google map API, or other map API.
